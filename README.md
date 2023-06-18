@@ -1,6 +1,6 @@
 # StaffSpace
 
-> A full stack application to store, update and delete employee details. 
+> A full-stack employee management system application to store, update and delete employee details. 
  
 ## Tools and Technologies used
  
